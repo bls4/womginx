@@ -1,1 +1,1 @@
-echo 'PID_03'
+rm -rf /opt/womginx/public/index.html
